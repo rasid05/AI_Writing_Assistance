@@ -29,7 +29,7 @@ This caused the API to be called multiple times when users typed text or changed
 
 **Solution**
 
-A **Generate button** was added so the API runs only when the user explicitly requests a response.
+A **Generate button** was added and wrap all content in **streamlite form** so the API runs only when the user explicitly requests a response.
 
 ---
 
